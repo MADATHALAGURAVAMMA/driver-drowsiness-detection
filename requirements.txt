@@ -1,0 +1,9 @@
+opencv-python
+mediapipe
+numpy
+scipy
+tensorflow
+keras
+imutils
+pygame
+matplotlib
